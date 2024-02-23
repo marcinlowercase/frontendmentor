@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-![Design preview for the Social links profile coding challenge](design/"Frontend Mentor _ Social links profile_Desktop.jpeg")
+![Design preview for the Social links profile coding challenge](./design/result-desktop.jpeg)
 
 ## Welcome! 👋
 
